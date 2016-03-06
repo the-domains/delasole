@@ -4,8 +4,15 @@
         <description><![CDATA[delasole]]></description>
         <link>https://thegrid.ai/delasole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 18:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 18:47:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/delasole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Here is my third post...three strikes?</p>]]></description>
+            <link>https://thegrid.ai/delasole/a6edbfa1-6e5a-4bfe-90a6-f616d8d59ec5/index.html</link>
+            <guid isPermaLink="false">a6edbfa1-6e5a-4bfe-90a6-f616d8d59ec5</guid>
+            <pubDate>Sun, 06 Mar 2016 18:47:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is my second post to test this </p>]]></description>
